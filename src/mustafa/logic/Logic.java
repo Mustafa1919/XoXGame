@@ -126,9 +126,9 @@ public class Logic extends ResetTable implements OyunBasla{
 	public void printPlayerInfo() {
 		// TODO Auto-generated method stub
 		System.out.println("Oyuncu 1 Bilgileri = \n\t" + players[0].getColor() + 
-							" rekli oyuncunun puani: " + players[0].getWin());
+							" renkli oyuncunun puani: " + players[0].getWin());
 		System.out.println("Oyuncu 2 Bilgileri = \n\t" + players[1].getColor() + 
-				" rekli oyuncunun puani: " + players[1].getWin());
+				" renkli oyuncunun puani: " + players[1].getWin());
 	}
 
 	
